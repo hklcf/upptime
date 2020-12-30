@@ -12,6 +12,8 @@ sites:
     url: $HOSTING_01
   - name: Hosting 02
     url: $HOSTING_02
+    expectedStatusCodes:
+      - 403
   - name: Bot
     url: $BOT
   - name: Clients
