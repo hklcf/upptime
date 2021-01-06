@@ -1,7 +1,7 @@
-url: $CLIENTS  
+url: $CLIENTS
 status: up
 code: 200
-responseTime: 532
-lastUpdated: 2021-01-05T23:15:07.272Z
+responseTime: 507
+lastUpdated: 2021-01-06T23:16:17.485Z
 startTime: Wed Dec 30 2020 06:50:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
