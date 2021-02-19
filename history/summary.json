@@ -22,10 +22,10 @@
     "url": "https://eservice-hk.net",
     "icon": "https://favicons.githubusercontent.com/eservice-hk.net",
     "slug": "e-service-hk-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 645,
@@ -33,7 +33,9 @@
     "timeWeek": 740,
     "timeMonth": 660,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 2
+    }
   },
   {
     "name": "Hosting 01",
@@ -114,9 +116,9 @@
     "url": "https://img.eservice-hk.net",
     "icon": "https://favicons.githubusercontent.com/img.eservice-hk.net",
     "slug": "img-eservice-hk-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,6 +127,8 @@
     "timeWeek": 324,
     "timeMonth": 365,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-19": 0
+    }
   }
 ]
