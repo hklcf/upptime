@@ -22,19 +22,19 @@
     "url": "https://eservice-hk.net",
     "icon": "https://favicons.githubusercontent.com/eservice-hk.net",
     "slug": "e-service-hk-net",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.94%",
     "time": 696,
-    "timeDay": 2046,
-    "timeWeek": 1095,
-    "timeMonth": 751,
+    "timeDay": 1598,
+    "timeWeek": 1052,
+    "timeMonth": 750,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2021-02-19": 19
+      "2021-02-19": 41
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://img.eservice-hk.net",
     "icon": "https://favicons.githubusercontent.com/img.eservice-hk.net",
     "slug": "img-eservice-hk-net",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 346,
-    "timeDay": 313,
-    "timeWeek": 324,
-    "timeMonth": 363,
-    "timeYear": 346,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.95%",
+    "time": 358,
+    "timeDay": 553,
+    "timeWeek": 403,
+    "timeMonth": 384,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2021-02-19": 16
+      "2021-02-19": 39
     }
   }
 ]
