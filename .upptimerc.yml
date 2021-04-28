@@ -13,7 +13,7 @@ sites:
   - name: Hosting 02
     url: $HOSTING_02
     expectedStatusCodes:
-      - 404
+      - 200
   - name: Bot
     url: $BOT
     expectedStatusCodes:
