@@ -79,7 +79,7 @@
     "url": "$BOT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
