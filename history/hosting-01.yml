@@ -1,7 +1,7 @@
 url: $HOSTING_01
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-09-16T21:01:45.013Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2021-09-16T21:18:45.274Z
 startTime: Wed Dec 30 2020 06:49:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
