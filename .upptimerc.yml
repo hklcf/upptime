@@ -11,6 +11,10 @@ sites:
     url: $HOSTING_01
   - name: Hosting 02
     url: $HOSTING_02
+  - name: Bot
+    url: $BOT
+    expectedStatusCodes:
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
