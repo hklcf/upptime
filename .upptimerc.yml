@@ -15,6 +15,10 @@ sites:
     url: $BOT
     expectedStatusCodes:
       - 403
+  - name: Clients
+    url: $CLIENTS
+  - name: img.eservice-hk.net
+    url: https://img.eservice-hk.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
