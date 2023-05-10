@@ -37,7 +37,7 @@ status-website:
 #      href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  uptime: "*/1 * * * *"
+  uptime: "*/5 * * * *"
 
 i18n:
   footer: "&copy; eService-HK"
