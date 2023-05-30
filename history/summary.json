@@ -4,18 +4,20 @@
     "url": "https://eservice-hk.com",
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
     "timeDay": 378,
-    "timeWeek": 347,
+    "timeWeek": 348,
     "timeMonth": 349,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   },
   {
     "name": "eService-HK.net",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 879,
-    "timeWeek": 889,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "time": 911,
+    "timeDay": 892,
+    "timeWeek": 892,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -40,27 +42,29 @@
     "url": "$HOSTING_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 368,
-    "timeWeek": 383,
+    "timeWeek": 384,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   },
   {
     "name": "Hosting 02",
     "url": "$HOSTING_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 237,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   },
   {
     "name": "Bot",
@@ -82,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 323,
-    "timeWeek": 343,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 414,
+    "timeDay": 324,
+    "timeWeek": 344,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
@@ -94,18 +100,20 @@
     "url": "$CLIENTS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clients",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
     "timeDay": 625,
-    "timeWeek": 740,
+    "timeWeek": 742,
     "timeMonth": 744,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-30": 0
+    }
   },
   {
     "name": "img.eservice-hk.net",
@@ -118,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 531,
-    "timeWeek": 523,
-    "timeMonth": 572,
-    "timeYear": 572,
+    "time": 573,
+    "timeDay": 549,
+    "timeWeek": 527,
+    "timeMonth": 573,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   }
 ]
