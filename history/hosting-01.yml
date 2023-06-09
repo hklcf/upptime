@@ -1,7 +1,7 @@
 url: $HOSTING_01
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2023-06-09T02:58:48.440Z
+status: down
+code: 521
+responseTime: 248
+lastUpdated: 2023-06-09T03:15:07.555Z
 startTime: Wed May 10 2023 03:39:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
