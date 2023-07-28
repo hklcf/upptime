@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 331,
     "timeDay": 315,
     "timeWeek": 319,
     "timeMonth": 320,
     "timeYear": 331,
-    "dailyMinutesDown": {
-      "2023-07-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "eService-HK.net",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.net.ico",
     "slug": "e-service-hk-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 818,
     "timeDay": 734,
     "timeWeek": 798,
     "timeMonth": 755,
     "timeYear": 818,
-    "dailyMinutesDown": {
-      "2023-07-28": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hosting 01",
@@ -68,19 +64,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-02",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 232,
     "timeWeek": 232,
     "timeMonth": 231,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2023-07-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bot",
@@ -88,18 +82,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot",
     "status": "down",
-    "uptime": "84.22%",
+    "uptime": "84.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.68%",
-    "uptimeYear": "84.22%",
+    "uptimeMonth": "58.57%",
+    "uptimeYear": "84.18%",
     "time": 364,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 337,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-07-28": 1155,
+      "2023-07-28": 1203,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
