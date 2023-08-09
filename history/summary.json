@@ -4,19 +4,19 @@
     "url": "https://eservice-hk.com",
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 329,
-    "timeDay": 284,
-    "timeWeek": 305,
+    "timeDay": 292,
+    "timeWeek": 306,
     "timeMonth": 318,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2023-08-09": 27
+      "2023-08-09": 45
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://eservice-hk.net",
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.net.ico",
     "slug": "e-service-hk-net",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 810,
-    "timeDay": 822,
-    "timeWeek": 733,
+    "timeDay": 820,
+    "timeWeek": 737,
     "timeMonth": 758,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-08-09": 26
+      "2023-08-09": 44
     }
   },
   {
@@ -51,7 +51,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 381,
-    "timeDay": 435,
+    "timeDay": 429,
     "timeWeek": 394,
     "timeMonth": 385,
     "timeYear": 381,
@@ -67,19 +67,19 @@
     "url": "$HOSTING_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-02",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 232,
-    "timeDay": 267,
+    "timeDay": 254,
     "timeWeek": 234,
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-08-09": 24
+      "2023-08-09": 42
     }
   },
   {
@@ -94,7 +94,7 @@
     "uptimeMonth": "56.06%",
     "uptimeYear": "85.35%",
     "time": 359,
-    "timeDay": 345,
+    "timeDay": 344,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 359,
@@ -127,8 +127,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 726,
-    "timeDay": 791,
-    "timeWeek": 726,
+    "timeDay": 781,
+    "timeWeek": 725,
     "timeMonth": 736,
     "timeYear": 726,
     "dailyMinutesDown": {}
@@ -145,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 482,
-    "timeDay": 479,
+    "timeDay": 476,
     "timeWeek": 430,
-    "timeMonth": 427,
+    "timeMonth": 426,
     "timeYear": 482,
     "dailyMinutesDown": {}
   }
