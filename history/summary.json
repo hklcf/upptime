@@ -155,18 +155,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/img.eservice-hk.net.ico",
     "slug": "img-eservice-hk-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 427,
     "timeWeek": 577,
     "timeMonth": 527,
     "timeYear": 492,
-    "dailyMinutesDown": {
-      "2023-09-21": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
