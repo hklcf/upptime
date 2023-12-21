@@ -37,18 +37,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.net.ico",
     "slug": "e-service-hk-net",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.92%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "98.92%",
     "time": 841,
     "timeDay": 822,
     "timeWeek": 880,
     "timeMonth": 914,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-12-21": 40,
+      "2023-12-21": 44,
       "2023-10-21": 26,
       "2023-10-19": 380,
       "2023-10-18": 758,
@@ -178,9 +178,9 @@
     "slug": "img-eservice-hk-net",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 522,
     "timeDay": 578,
@@ -188,7 +188,7 @@
     "timeMonth": 596,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-12-21": 40
+      "2023-12-21": 43
     }
   }
 ]
