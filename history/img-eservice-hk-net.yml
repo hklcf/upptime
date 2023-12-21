@@ -1,7 +1,7 @@
 url: https://img.eservice-hk.net
-status: up
-code: 200
-responseTime: 287
-lastUpdated: 2023-12-21T05:41:52.257Z
+status: down
+code: 502
+responseTime: 1000
+lastUpdated: 2023-12-21T06:10:21.864Z
 startTime: 2023-05-10T03:49:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
