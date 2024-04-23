@@ -81,7 +81,7 @@
     "timeMonth": 18968,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2024-04-23": 369,
+      "2024-04-23": 424,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -282,7 +282,7 @@
     "time": 784,
     "timeDay": 754,
     "timeWeek": 712,
-    "timeMonth": 759,
+    "timeMonth": 758,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2024-04-19": 296
@@ -302,7 +302,7 @@
     "time": 506,
     "timeDay": 589,
     "timeWeek": 520,
-    "timeMonth": 474,
+    "timeMonth": 475,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2023-12-21": 37
