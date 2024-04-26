@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-01",
     "status": "down",
-    "uptime": "76.47%",
+    "uptime": "76.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.47%",
+    "uptimeYear": "76.46%",
     "time": 388,
     "timeDay": 27276,
     "timeWeek": 27276,
     "timeMonth": 23122,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-04-26": 606,
+      "2024-04-26": 664,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -285,7 +285,7 @@
     "time": 784,
     "timeDay": 640,
     "timeWeek": 730,
-    "timeMonth": 763,
+    "timeMonth": 764,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2024-04-19": 296
@@ -304,8 +304,8 @@
     "uptimeYear": "99.99%",
     "time": 507,
     "timeDay": 477,
-    "timeWeek": 590,
-    "timeMonth": 501,
+    "timeWeek": 592,
+    "timeMonth": 502,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2023-12-21": 37
