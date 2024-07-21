@@ -1,7 +1,7 @@
 url: https://eservice-hk.net
-status: up
-code: 200
-responseTime: 1357
-lastUpdated: 2024-07-21T00:42:28.926Z
+status: down
+code: 502
+responseTime: 178
+lastUpdated: 2024-07-21T04:43:10.630Z
 startTime: 2023-05-10T03:39:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
