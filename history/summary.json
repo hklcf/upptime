@@ -143,7 +143,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-01",
     "status": "down",
-    "uptime": "33.00%",
+    "uptime": "32.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -154,7 +154,7 @@
     "timeMonth": 19622,
     "timeYear": 19625,
     "dailyMinutesDown": {
-      "2025-08-03": 806,
+      "2025-08-03": 849,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -583,7 +583,7 @@
     "timeMonth": 19864,
     "timeYear": 13179,
     "dailyMinutesDown": {
-      "2025-08-03": 807,
+      "2025-08-03": 849,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
