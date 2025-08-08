@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
     "status": "up",
-    "uptime": "89.30%",
+    "uptime": "89.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -154,7 +154,7 @@
     "timeMonth": 19625,
     "timeYear": 19625,
     "dailyMinutesDown": {
-      "2025-08-08": 812,
+      "2025-08-08": 853,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -583,7 +583,7 @@
     "timeMonth": 19887,
     "timeYear": 13544,
     "dailyMinutesDown": {
-      "2025-08-08": 813,
+      "2025-08-08": 854,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
