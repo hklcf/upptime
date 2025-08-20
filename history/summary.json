@@ -153,7 +153,7 @@
     "timeMonth": 19634,
     "timeYear": 19627,
     "dailyMinutesDown": {
-      "2025-08-20": 850,
+      "2025-08-20": 910,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -549,17 +549,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "94.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 405,
     "timeDay": 273,
     "timeWeek": 331,
     "timeMonth": 332,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-04": 16,
+      "2025-02-21": 17,
+      "2025-02-06": 16
+    }
   },
   {
     "name": "Clients",
@@ -571,14 +575,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.72%",
+    "uptimeYear": "29.71%",
     "time": 13601,
     "timeDay": 19949,
     "timeWeek": 19890,
     "timeMonth": 19902,
-    "timeYear": 14323,
+    "timeYear": 14328,
     "dailyMinutesDown": {
-      "2025-08-20": 851,
+      "2025-08-20": 911,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
