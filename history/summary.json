@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
     "status": "up",
-    "uptime": "89.51%",
+    "uptime": "89.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,7 +13,7 @@
     "time": 267,
     "timeDay": 305,
     "timeWeek": 363,
-    "timeMonth": 288,
+    "timeMonth": 289,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-07-04": 19,
@@ -154,7 +154,8 @@
     "timeMonth": 19640,
     "timeYear": 19628,
     "dailyMinutesDown": {
-      "2025-08-24": 1389,
+      "2025-08-25": 46,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
@@ -517,8 +518,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   },
   {
@@ -576,14 +576,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.52%",
+    "uptimeYear": "28.50%",
     "time": 13896,
     "timeDay": 19917,
     "timeWeek": 19893,
     "timeMonth": 19909,
-    "timeYear": 14588,
+    "timeYear": 14593,
     "dailyMinutesDown": {
-      "2025-08-24": 1390,
+      "2025-08-25": 47,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
