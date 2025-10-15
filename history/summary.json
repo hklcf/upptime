@@ -154,7 +154,7 @@
     "timeMonth": 19624,
     "timeYear": 19631,
     "dailyMinutesDown": {
-      "2025-10-15": 805,
+      "2025-10-15": 850,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -572,7 +572,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clients",
     "status": "down",
-    "uptime": "64.55%",
+    "uptime": "64.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -583,7 +583,7 @@
     "timeMonth": 19860,
     "timeYear": 16984,
     "dailyMinutesDown": {
-      "2025-10-15": 806,
+      "2025-10-15": 851,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
