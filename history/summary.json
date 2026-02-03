@@ -121,8 +121,8 @@
     "uptimeYear": "97.16%",
     "time": 757,
     "timeDay": 7909,
-    "timeWeek": 1716,
-    "timeMonth": 968,
+    "timeWeek": 1731,
+    "timeMonth": 969,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2026-01-20": 80,
@@ -173,7 +173,8 @@
     "timeMonth": 19625,
     "timeYear": 19594,
     "dailyMinutesDown": {
-      "2026-02-02": 1397,
+      "2026-02-03": 63,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -536,8 +537,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -546,18 +546,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-02",
     "status": "up",
-    "uptime": "92.10%",
+    "uptime": "92.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.98%",
+    "uptimeYear": "78.96%",
     "time": 279,
     "timeDay": 275,
     "timeWeek": 365,
     "timeMonth": 303,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2026-02-02": 1397,
+      "2026-02-03": 63,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -647,18 +648,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "93.06%",
+    "uptime": "93.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.43%",
-    "uptimeMonth": "58.43%",
-    "uptimeYear": "94.00%",
+    "uptimeMonth": "58.19%",
+    "uptimeYear": "93.98%",
     "time": 506,
     "timeDay": 638,
     "timeWeek": 1014,
-    "timeMonth": 1296,
+    "timeMonth": 1299,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2026-02-02": 1397,
+      "2026-02-03": 63,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1195,
@@ -714,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clients",
     "status": "down",
-    "uptime": "57.42%",
+    "uptime": "57.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -725,7 +727,8 @@
     "timeMonth": 19884,
     "timeYear": 19832,
     "dailyMinutesDown": {
-      "2026-02-02": 1398,
+      "2026-02-03": 64,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -1088,8 +1091,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
