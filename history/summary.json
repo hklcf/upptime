@@ -89,7 +89,7 @@
     "timeMonth": 19631,
     "timeYear": 19599,
     "dailyMinutesDown": {
-      "2026-05-05": 668,
+      "2026-05-05": 784,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -464,8 +464,8 @@
     "status": "up",
     "uptime": "84.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.47%",
-    "uptimeMonth": "17.14%",
+    "uptimeWeek": "69.62%",
+    "uptimeMonth": "17.40%",
     "uptimeYear": "55.23%",
     "time": 289,
     "timeDay": 306,
@@ -656,7 +656,7 @@
     "time": 654,
     "timeDay": 405,
     "timeWeek": 376,
-    "timeMonth": 1125,
+    "timeMonth": 1114,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2026-04-26": 159,
@@ -756,7 +756,7 @@
     "timeMonth": 19828,
     "timeYear": 19838,
     "dailyMinutesDown": {
-      "2026-05-05": 669,
+      "2026-05-05": 785,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
