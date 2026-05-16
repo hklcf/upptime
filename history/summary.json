@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
     "status": "up",
-    "uptime": "91.99%",
+    "uptime": "92.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 292,
-    "timeDay": 219,
-    "timeWeek": 237,
+    "timeDay": 213,
+    "timeWeek": 235,
     "timeMonth": 260,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -34,8 +34,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "97.10%",
     "time": 799,
-    "timeDay": 654,
-    "timeWeek": 636,
+    "timeDay": 645,
+    "timeWeek": 635,
     "timeMonth": 805,
     "timeYear": 801,
     "dailyMinutesDown": {
@@ -84,12 +84,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 19598,
-    "timeDay": 19611,
-    "timeWeek": 19540,
+    "timeDay": 19604,
+    "timeWeek": 19539,
     "timeMonth": 19613,
     "timeYear": 19597,
     "dailyMinutesDown": {
-      "2026-05-15": 1422,
+      "2026-05-16": 105,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -452,8 +453,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -465,7 +465,7 @@
     "uptime": "84.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "51.68%",
+    "uptimeMonth": "51.96%",
     "uptimeYear": "55.23%",
     "time": 290,
     "timeDay": 249,
@@ -655,8 +655,8 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "92.62%",
     "time": 678,
-    "timeDay": 3050,
-    "timeWeek": 1755,
+    "timeDay": 2832,
+    "timeWeek": 1736,
     "timeMonth": 1025,
     "timeYear": 693,
     "dailyMinutesDown": {
@@ -753,12 +753,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 19836,
-    "timeDay": 19738,
+    "timeDay": 19749,
     "timeWeek": 19813,
     "timeMonth": 19820,
     "timeYear": 19835,
     "dailyMinutesDown": {
-      "2026-05-15": 1423,
+      "2026-05-16": 106,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -1121,8 +1122,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -1138,7 +1138,7 @@
     "uptimeYear": "99.89%",
     "time": 355,
     "timeDay": 274,
-    "timeWeek": 389,
+    "timeWeek": 388,
     "timeMonth": 433,
     "timeYear": 354,
     "dailyMinutesDown": {
