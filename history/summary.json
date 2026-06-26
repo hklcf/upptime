@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.com.ico",
     "slug": "e-service-hk-com",
     "status": "down",
-    "uptime": "92.29%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.90%",
+    "uptime": "92.28%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.88%",
     "time": 291,
     "timeDay": 240,
-    "timeWeek": 242,
+    "timeWeek": 239,
     "timeMonth": 250,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -20,7 +20,7 @@
       "2025-10-22": 376,
       "2025-10-21": 25,
       "2025-11-18": 109,
-      "2026-06-26": 3
+      "2026-06-26": 89
     }
   },
   {
@@ -30,10 +30,10 @@
     "slug": "e-service-hk-net",
     "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.10%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "97.09%",
     "time": 797,
     "timeDay": 556,
     "timeWeek": 600,
@@ -71,7 +71,7 @@
       "2026-04-10": 84,
       "2026-04-11": 27,
       "2026-04-21": 48,
-      "2026-06-26": 3
+      "2026-06-26": 89
     }
   },
   {
@@ -87,11 +87,11 @@
     "uptimeYear": "0.00%",
     "time": 19600,
     "timeDay": 19512,
-    "timeWeek": 19553,
+    "timeWeek": 19552,
     "timeMonth": 19738,
     "timeYear": 19600,
     "dailyMinutesDown": {
-      "2026-06-26": 1014,
+      "2026-06-26": 1100,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -465,13 +465,13 @@
     "slug": "hosting-02",
     "status": "down",
     "uptime": "85.51%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "55.23%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "55.21%",
     "time": 294,
     "timeDay": 247,
-    "timeWeek": 253,
+    "timeWeek": 251,
     "timeMonth": 292,
     "timeYear": 296,
     "dailyMinutesDown": {
@@ -643,7 +643,7 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2026-05-11": 21,
-      "2026-06-26": 2
+      "2026-06-26": 88
     }
   },
   {
@@ -659,7 +659,7 @@
     "uptimeYear": "92.62%",
     "time": 884,
     "timeDay": 2237,
-    "timeWeek": 2477,
+    "timeWeek": 2462,
     "timeMonth": 2336,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -757,11 +757,11 @@
     "uptimeYear": "0.00%",
     "time": 19827,
     "timeDay": 19731,
-    "timeWeek": 19729,
+    "timeWeek": 19730,
     "timeMonth": 19770,
     "timeYear": 19827,
     "dailyMinutesDown": {
-      "2026-06-26": 1015,
+      "2026-06-26": 1102,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -1141,7 +1141,7 @@
     "uptimeYear": "99.89%",
     "time": 351,
     "timeDay": 264,
-    "timeWeek": 283,
+    "timeWeek": 284,
     "timeMonth": 296,
     "timeYear": 352,
     "dailyMinutesDown": {
