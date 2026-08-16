@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 288,
-    "timeDay": 228,
+    "timeDay": 227,
     "timeWeek": 246,
     "timeMonth": 253,
     "timeYear": 288,
@@ -29,12 +29,12 @@
     "slug": "e-service-hk-net",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "87.37%",
+    "uptimeDay": "89.67%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "97.02%",
     "time": 897,
-    "timeDay": 5481,
+    "timeDay": 5480,
     "timeWeek": 2039,
     "timeMonth": 1568,
     "timeYear": 900,
@@ -88,12 +88,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 19590,
-    "timeDay": 19531,
+    "timeDay": 19528,
     "timeWeek": 19559,
-    "timeMonth": 19566,
+    "timeMonth": 19565,
     "timeYear": 19588,
     "dailyMinutesDown": {
-      "2026-08-15": 1390,
+      "2026-08-16": 31,
+      "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -456,8 +457,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2025-08-17": 1440,
-      "2025-08-16": 1440
+      "2025-08-17": 1440
     }
   },
   {
@@ -472,8 +472,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "55.22%",
     "time": 293,
-    "timeDay": 257,
-    "timeWeek": 265,
+    "timeDay": 256,
+    "timeWeek": 264,
     "timeMonth": 280,
     "timeYear": 293,
     "dailyMinutesDown": {
@@ -659,8 +659,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.62%",
     "time": 1214,
-    "timeDay": 1294,
-    "timeWeek": 1985,
+    "timeDay": 1210,
+    "timeWeek": 1986,
     "timeMonth": 2521,
     "timeYear": 1258,
     "dailyMinutesDown": {
@@ -756,12 +756,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 19812,
-    "timeDay": 19837,
-    "timeWeek": 19807,
+    "timeDay": 19841,
+    "timeWeek": 19805,
     "timeMonth": 19776,
     "timeYear": 19807,
     "dailyMinutesDown": {
-      "2026-08-15": 1391,
+      "2026-08-16": 32,
+      "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1124,8 +1125,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2025-08-17": 1440,
-      "2025-08-16": 1440
+      "2025-08-17": 1440
     }
   },
   {
@@ -1140,7 +1140,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 341,
-    "timeDay": 463,
+    "timeDay": 462,
     "timeWeek": 318,
     "timeMonth": 290,
     "timeYear": 339,
