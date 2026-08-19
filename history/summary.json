@@ -27,17 +27,17 @@
     "url": "https://eservice-hk.net",
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.net.ico",
     "slug": "e-service-hk-net",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "75.90%",
-    "uptimeWeek": "92.22%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "74.49%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "96.92%",
-    "time": 935,
-    "timeDay": 1341,
-    "timeWeek": 2886,
-    "timeMonth": 1638,
-    "timeYear": 936,
+    "time": 945,
+    "timeDay": 3010,
+    "timeWeek": 3124,
+    "timeMonth": 1721,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-08-22": 64,
       "2025-10-22": 376,
@@ -77,7 +77,7 @@
       "2026-08-17": 98,
       "2026-08-16": 19,
       "2026-08-18": 126,
-      "2026-08-19": 269
+      "2026-08-19": 289
     }
   },
   {
@@ -97,7 +97,7 @@
     "timeMonth": 19565,
     "timeYear": 19587,
     "dailyMinutesDown": {
-      "2026-08-19": 298,
+      "2026-08-19": 321,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -665,7 +665,7 @@
     "time": 1250,
     "timeDay": 1900,
     "timeWeek": 2223,
-    "timeMonth": 2417,
+    "timeMonth": 2380,
     "timeYear": 1288,
     "dailyMinutesDown": {
       "2025-10-15": 16,
@@ -765,7 +765,7 @@
     "timeMonth": 19777,
     "timeYear": 19806,
     "dailyMinutesDown": {
-      "2026-08-19": 299,
+      "2026-08-19": 322,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
