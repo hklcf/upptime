@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 282,
-    "timeDay": 307,
-    "timeWeek": 299,
+    "timeDay": 308,
+    "timeWeek": 303,
     "timeMonth": 301,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -28,15 +28,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/eservice-hk.net.ico",
     "slug": "e-service-hk-net",
     "status": "up",
-    "uptime": "98.88%",
+    "uptime": "98.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "96.92%",
     "time": 931,
-    "timeDay": 813,
-    "timeWeek": 747,
-    "timeMonth": 1302,
+    "timeDay": 809,
+    "timeWeek": 751,
+    "timeMonth": 1303,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2025-10-22": 376,
@@ -91,12 +91,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 19585,
-    "timeDay": 19597,
-    "timeWeek": 19564,
-    "timeMonth": 19581,
+    "timeDay": 19604,
+    "timeWeek": 19569,
+    "timeMonth": 19582,
     "timeYear": 19582,
     "dailyMinutesDown": {
-      "2026-09-15": 1395,
+      "2026-09-16": 118,
+      "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -459,8 +460,7 @@
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
-      "2025-09-17": 1440,
-      "2025-09-16": 1440
+      "2025-09-17": 1440
     }
   },
   {
@@ -475,8 +475,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "55.22%",
     "time": 290,
-    "timeDay": 311,
-    "timeWeek": 316,
+    "timeDay": 315,
+    "timeWeek": 318,
     "timeMonth": 286,
     "timeYear": 289,
     "dailyMinutesDown": {
@@ -662,8 +662,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.62%",
     "time": 1370,
-    "timeDay": 1201,
-    "timeWeek": 1658,
+    "timeDay": 1211,
+    "timeWeek": 1631,
     "timeMonth": 2080,
     "timeYear": 1410,
     "dailyMinutesDown": {
@@ -759,12 +759,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 19802,
-    "timeDay": 19839,
-    "timeWeek": 19813,
-    "timeMonth": 19790,
+    "timeDay": 19877,
+    "timeWeek": 19819,
+    "timeMonth": 19791,
     "timeYear": 19796,
     "dailyMinutesDown": {
-      "2026-09-15": 1396,
+      "2026-09-16": 119,
+      "2026-09-15": 1440,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -1127,8 +1128,7 @@
       "2025-09-20": 1440,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
-      "2025-09-17": 1440,
-      "2025-09-16": 1440
+      "2025-09-17": 1440
     }
   },
   {
@@ -1143,8 +1143,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 333,
-    "timeDay": 337,
-    "timeWeek": 328,
+    "timeDay": 329,
+    "timeWeek": 329,
     "timeMonth": 324,
     "timeYear": 331,
     "dailyMinutesDown": {
